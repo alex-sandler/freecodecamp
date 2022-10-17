@@ -1,4 +1,1 @@
-// Setup
-var a;
-a = 7;
-// Only change code below this line
+const sum = 10 + 10;
